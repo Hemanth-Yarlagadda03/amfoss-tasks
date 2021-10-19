@@ -1,6 +1,6 @@
 # Installing Ubuntu 20.04 
 
-This task is obviosly not very difficult due the vast resources online available which aided me in completing this task. 
+This task was obviosly not very difficult due the vast resources online available which aided me in completing this task. 
 My system being a UEFI system and also automatically allocating a drive for the ubuntu allowed the process to go very smoothly.
 I really had no idea to dual boot intallation of operating systems before but I used the help of (https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
 to assist me in the process.
