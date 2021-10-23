@@ -32,4 +32,35 @@ pwd
   122  cat SOLUTION.md
   123  touch SOLUTION.md
   124  history
+  git clone https://github.com/Hemanth-Yarlagadda03/amfoss-tasks.git
+  128  sudo apt install git
+  129  sudo dpkg --configure -a
+  130  git clone https://github.com/Hemanth-Yarlagadda03/amfoss-tasks.git
+  131  sudo apt install git
+  132  git clone https://github.com/Hemanth-Yarlagadda03/amfoss-tasks.git
+  133  git clone gh repo clone Hemanth-Yarlagadda03/amfoss-tasks
+  134  git clone https://github.com/Hemanth-Yarlagadda03/amfoss-tasks.git
+  135  cd amfoss-tasks
+  136  cd Task-02
+  137  git add <SOLUTION.md>
+  138  git add SOLUTION.md
+  139  git add /home/hemanth/Coordinates_location/SOLUTION.md
+  140  git status
+  141  git add <Location_Coordinate.txt>
+  142  git add Location_Coordinate.txt
+  143  git add SOLUTION.md
+  144  git commit -m nice
+  145  git config --global user.email "you@example.com"
+  146  git config --yhlakshman@gmail.com
+  147  cd..
+  148  cd ..
+  149  pwd
+  150  git config --global user.email "you@domain.com"
+  151  git config --global user.email yhlakshman@gmail.com
+  152  git config --global user.name Hemanth_Yarlagadda03
+  153  cd amfoss-tasks
+  154  cd Task-02
+  155  git commit -m nice 
+  156  git push origin main
+
 
