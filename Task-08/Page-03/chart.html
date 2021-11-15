@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+
+<body>
+
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+<script type="module">
+import {getRandomJson} from './data.js'
+var xValues = ["Pepperoni", "Farmhouse", "Veggie Paradise", "Peppy Panner", "VEGGIE PARADISE"];
+var yValues = [getRandomJson()[0].sold, getRandomJson()[1].sold, getRandomJson()[2].sold, getRandomJson()[3].sold, getRandomJson()[4].sold];
+
+
+new Chart("myChart", {
+  type: "line",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: "rgba(0,0,0,1.0)",
+      borderColor: "rgba(0,0,0,0.1)",
+      data: yValues
+    }]
+  },
+  options: {
+    title: {
+      display: true,
+      text: "Pizzas sold in a day"
+    }
+  }
+});
+</script>
+
+</body>
+</html>
