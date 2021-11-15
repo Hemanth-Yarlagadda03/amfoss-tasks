@@ -17,4 +17,4 @@ I would like to contribute to the club in as many ways as possible to the limit 
 
 ### ***Do you have any feedback for the selection process?***
 
-None to be honest, maybe keep up the good work. The tasks were great learning experience and helped me expand my horizons.
+None to be honest, maybe keep up the good work. The tasks were great learning experience and helped me expand my horizons..
