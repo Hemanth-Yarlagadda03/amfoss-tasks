@@ -1,6 +1,6 @@
 # JS EXplorer
 
-The [link][1] helped thorugh the task and I went long with it.
+The [githubpage][1] helped get through the task and I went long with it.
 
 
 
