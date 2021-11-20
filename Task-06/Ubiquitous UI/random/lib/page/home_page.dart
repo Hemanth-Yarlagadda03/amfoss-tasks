@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
                 textAlign: TextAlign.center,
                //softWrap: true,
                style: TextStyle(
-               color: Colors.blueGrey[900],
+               color: Colors.blue[900],
                fontSize: 20,)
               ),
               //Text('df'),
